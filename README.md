@@ -1,15 +1,12 @@
 ### Hi!
-### My name is Pedro Di Gianni. I am a data analyst with a background in economics.
-### I am a machine learning student. In the 'ironhack' repository you will see how I learned data analytics, visualization and machine learning in Ironhack Bootcamp
+### My name is Pedro Di Gianni. I am a data scientist with a background in economics.
+### I have 4 years of experience in extracting, manipulating and using data to make predictions.
+### In the 'ironhack' repository you will see how I learned data analytics, visualization and machine learning in Ironhack Bootcamp
 
-### In this github you will see:
-### • Pandas
-### • Scikit-Learn
-### • Matplotlib
-### • Seaborn
-### • Web-Scraping (Beautiful Soup and Selenium)
-### • API
-### • Tableau
+### In this github you will see Web-Scraping/API, Pandas, Seaborn, Scikit-Learn
+
+### Currently learning Pyspark and Apache Airflow
+### Curretly working on sports predictions (NBA, NFL and MLB)
 
 ### My email is pedrodigianni@gmail.com
 
