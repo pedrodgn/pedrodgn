@@ -6,7 +6,7 @@
 ### In this github you will see Web-Scraping/API, Pandas, Seaborn, Scikit-Learn
 
 ### Currently learning Pyspark and Apache Airflow
-### Curretly working on sports predictions (NBA, NFL and MLB)
+### Currently working on sports predictions (NBA, NFL and MLB)
 
 ### My email is pedrodigianni@gmail.com
 
